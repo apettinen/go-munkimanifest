@@ -3,7 +3,7 @@
  * License: Apache 2.0
  * Author: Antti Pettinen / Intelligent Apps GmbH 
  * Last Modified Date: 08.05.2019
- * Last Modified By: Antti Pettinen <antti.pettinen@gmail.com>
+ * Last Modified By: Antti Pettinen
 */
 
 package main

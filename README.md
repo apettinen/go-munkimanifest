@@ -4,7 +4,9 @@ Create a [munki](https://github.com/munki/munki) manifest based on template. Usa
 
 ## Usage
 
-To use this program, you need to build it via `go build munkimanifest.go`.
+To use this program, you need to build it via `go build munkimanifest.go`. 
+To build for another architecture, set `GOOS` and `GOARCH` appropriately. For example, to build for Linux, run `GOOS=linux GOARCH=amd64 go build -o munkimanifest munkimanifest.go`.
+
 
 To actual usage instructions, see `munkimanifest -h`
 
